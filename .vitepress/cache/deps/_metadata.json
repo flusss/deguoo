@@ -1,0 +1,59 @@
+{
+  "hash": "a47b20e8",
+  "browserHash": "ada533b6",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/.pnpm/vue@3.3.6/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "758dd484",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/.pnpm/@vue+devtools-api@6.5.1/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "6c4a722d",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../node_modules/.pnpm/@vueuse+integrations@10.5.0_focus-trap@7.5.4_vue@3.3.6/node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "3c0644c7",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "fafba9bd",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../node_modules/.pnpm/minisearch@6.1.0/node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "b355fc1f",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../../node_modules/.pnpm/element-plus@2.4.1_vue@3.3.6/node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "9bff86b1",
+      "needsInterop": false
+    },
+    "echarts": {
+      "src": "../../../node_modules/.pnpm/echarts@5.4.3/node_modules/echarts/index.js",
+      "file": "echarts.js",
+      "fileHash": "20e02cae",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-SIFD63TW": {
+      "file": "chunk-SIFD63TW.js"
+    },
+    "chunk-R2OVAP4X": {
+      "file": "chunk-R2OVAP4X.js"
+    },
+    "chunk-5WWUZCGV": {
+      "file": "chunk-5WWUZCGV.js"
+    }
+  }
+}

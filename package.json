@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.23"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "echarts": "^5.4.3",
+    "element-plus": "^2.4.1",
+    "kitty-ui": "^4.19.2"
+  }
+}
