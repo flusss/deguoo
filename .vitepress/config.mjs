@@ -4,8 +4,8 @@ export default defineConfig({
   head: [
     ['link', { rel: 'stylesheet', href: '/style.css' }]
   ],
-  title: "flusss",
-  description: "fluss",
+  title: "deguoo",
+  description: "deguoo",
   themeConfig: {
     plugins: ['vitepress-theme-demoblock'],
     search: {
