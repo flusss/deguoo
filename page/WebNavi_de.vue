@@ -313,7 +313,7 @@
         </el-col>
         <el-col :xl="6" :lg="8" :md="12" :xs="24">
             <a href="https://www.duesseldorf.de/" target="_blank" >
-                <img src="/assets/Düsseldorf_logo.jpg" class="weblogo" alt="">
+                <img src="/assets/Düsseldorf_logo.png" class="weblogo" alt="">
             </a>
             <p>Düsseldorf, die Japanische Stadt. Die Japaner, die einzige Gruppe in Deutschland, die kein Deutsch lernen muss.</p>
         </el-col>

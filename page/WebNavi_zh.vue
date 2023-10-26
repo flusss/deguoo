@@ -314,7 +314,7 @@
         </el-col>
         <el-col :xl="6" :lg="8" :md="12" :xs="24">
             <a href="https://www.duesseldorf.de/" target="_blank" >
-                <img src="/assets/Düsseldorf_logo.jpg" class="weblogo" alt="">
+                <img src="/assets/Düsseldorf_logo.png" class="weblogo" alt="">
             </a>
             <p>Düsseldorf 杜塞尔多夫 日本城 日本人  在德国唯一不需要学德语的群体</p>
         </el-col>
