@@ -17,6 +17,8 @@ hero:
 features:
   - title: Deutsch-Chinesisch Wörterbuch
     details: Bearbeitet mit Hilfe von ChatGPT
+    link: /dic/a/angekommen.md
   - title: Tagebuch der Anne Frank
     details: Lesen und Anmerkungen
+    link: /text/Anna_Tagebuch/19420612.md
 ---
