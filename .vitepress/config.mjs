@@ -6,7 +6,29 @@ export default defineConfig({
   ],
   title: "deguoo",
   description: "deguoo",
+  //
   themeConfig: {
+    sidebar: {
+      '/Gesetze/': [
+        {
+          text: 'a-z', 
+          children: [
+            {
+              text: 'EStG',
+              link: '/Gesetze/EStG.md',
+              children: [
+                { text: '1', link: '/Gesetze/EStG.md#anchor1' },
+                { text: '2', link: '/Gesetze/EStG.md#anchor2' },
+                // 添加更多三级标题...
+              ]
+            }
+            // 其他文件和标题...
+          ]
+        }
+        // 其他主要部分...
+      ]
+      // 其他路径...
+    },
     plugins: ['vitepress-theme-demoblock'],
     collapsible: true,//添加
     search: {
