@@ -1,6 +1,37 @@
 # II. Einkommen
 
 ## 8.Die einzelnen Einkunftsarten
+- [II. Einkommen](#ii-einkommen)
+  - [8.Die einzelnen Einkunftsarten](#8die-einzelnen-einkunftsarten)
+  - [(13-14) a)Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)](#13-14-aland--und-forstwirtschaft--2-absatz-1-satz-1-nummer-1)
+        - [§ 13 Einkünfte aus Land- und Forstwirtschaft](#-13-einkünfte-aus-land--und-forstwirtschaft)
+        - [§ 13a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen](#-13a-ermittlung-des-gewinns-aus-land--und-forstwirtschaft-nach-durchschnittssätzen)
+        - [§ 14 Veräußerung des Betriebs](#-14-veräußerung-des-betriebs)
+        - [§ 14a Vergünstigungen bei der Veräußerung bestimmter land- und forstwirtschaftlicher Betriebe](#-14a-vergünstigungen-bei-der-veräußerung-bestimmter-land--und-forstwirtschaftlicher-betriebe)
+  - [(15-17) b)Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2)](#15-17-bgewerbebetrieb--2-absatz-1-satz-1-nummer-2)
+        - [§ 15 Einkünfte aus Gewerbebetrieb](#-15-einkünfte-aus-gewerbebetrieb)
+        - [§ 15a Verluste bei beschränkter Haftung](#-15a-verluste-bei-beschränkter-haftung)
+        - [§ 15b Verluste im Zusammenhang mit Steuerstundungsmodellen](#-15b-verluste-im-zusammenhang-mit-steuerstundungsmodellen)
+        - [§ 16 Veräußerung des Betriebs](#-16-veräußerung-des-betriebs)
+        - [§ 17 Veräußerung von Anteilen an Kapitalgesellschaften](#-17-veräußerung-von-anteilen-an-kapitalgesellschaften)
+  - [(18) c)Selbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3)](#18-cselbständige-arbeit--2-absatz-1-satz-1-nummer-3)
+        - [§ 18](#-18)
+  - [(19) d)Nichtselbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4)](#19-dnichtselbständige-arbeit--2-absatz-1-satz-1-nummer-4)
+        - [§ 19](#-19)
+        - [§ 19a Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen](#-19a-sondervorschrift-für-einkünfte-aus-nichtselbständiger-arbeit-bei-vermögensbeteiligungen)
+  - [(20) e)Kapitalvermögen (§ 2 Absatz 1 Satz 1 Nummer 5)](#20-ekapitalvermögen--2-absatz-1-satz-1-nummer-5)
+        - [§ 20](#-20)
+  - [(21) f)Vermietung und Verpachtung (§ 2 Absatz 1 Satz 1 Nummer 6)](#21-fvermietung-und-verpachtung--2-absatz-1-satz-1-nummer-6)
+        - [§ 21](#-21)
+  - [(22-23) g)Sonstige Einkünfte (§ 2 Absatz 1 Satz 1 Nummer 7)](#22-23-gsonstige-einkünfte--2-absatz-1-satz-1-nummer-7)
+        - [§ 22 Arten der sonstigen Einkünfte](#-22-arten-der-sonstigen-einkünfte)
+        - [§ 22a Rentenbezugsmitteilungen an die zentrale Stelle](#-22a-rentenbezugsmitteilungen-an-die-zentrale-stelle)
+        - [§ 23 Private Veräußerungsgeschäfte](#-23-private-veräußerungsgeschäfte)
+  - [(24) h)Gemeinsame Vorschriften](#24-hgemeinsame-vorschriften)
+        - [§ 24](#-24)
+        - [§ 24a Altersentlastungsbetrag](#-24a-altersentlastungsbetrag)
+        - [§ 24b Entlastungsbetrag für Alleinerziehende](#-24b-entlastungsbetrag-für-alleinerziehende)
+
 
 > a) Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)
 >
@@ -35,15 +66,15 @@
 
 ## (15-17) b)Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2)
 
-#####  	§ 15 Einkünfte aus Gewerbebetrieb
+##### § 15 Einkünfte aus Gewerbebetrieb
 
-#####  	§ 15a Verluste bei beschränkter Haftung
+##### § 15a Verluste bei beschränkter Haftung
 
-#####  	§ 15b Verluste im Zusammenhang mit Steuerstundungsmodellen
+##### § 15b Verluste im Zusammenhang mit Steuerstundungsmodellen
 
-#####  	§ 16 Veräußerung des Betriebs
+##### § 16 Veräußerung des Betriebs
 
-#####  	§ 17 Veräußerung von Anteilen an Kapitalgesellschaften
+##### § 17 Veräußerung von Anteilen an Kapitalgesellschaften
 
 - 德国收入税法（EStG）第15条款（§ 15 EStG - Einkünfte aus Gewerbebetrieb，来自商业运营的收入）的《德国收入税法》主要涉及从商业运营中获得的收入。这包括来自商业公司的收入，例如采矿企业和其他非农业、非林业的工业运营。还包括开放式贸易公司（OHG）、有限合伙公司（KG）等其他类型公司的股东收益，以及股东从公司获得的薪酬、贷款或经济资产的转让。此外，还规定了何时将某些活动视为商业运营，以及商业运营中损失的特定处理方式。
 - 德国收入税法（EStG）第15a条款（§ 15a EStG - Verluste bei beschränkter Haftung，有限责任的损失）的《德国收入税法》主要处理有限合伙公司（Kommanditgesellschaft）中有限合伙人（Kommanditisten）的损失问题。它规定，如果有限合伙人的资本账户出现负值，其在有限合伙公司的损失份额不得与其他商业收入或其他收入类型抵消或抵扣。该条款还涉及后续入资对损失抵扣的影响，以及在某些情况下对有限合伙人造成的负债的特定处理。此外，还包括关于如何处理有限合伙人在企业中的负债减少情况下的损失分配。

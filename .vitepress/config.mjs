@@ -129,7 +129,7 @@ export default defineConfig({
         collapsed: true,
         
         items: [
-          { text: 'EStG', link: '/Gesetze/EStG.md' }
+          { text: 'EStG', link: '/Gesetze/EStG/II.Einkommen.md' }
         ]
       }
     ]
