@@ -1,37 +1,6 @@
 # II. Einkommen
 
 ## 8.Die einzelnen Einkunftsarten
-- [II. Einkommen](#ii-einkommen)
-  - [8.Die einzelnen Einkunftsarten](#8die-einzelnen-einkunftsarten)
-  - [(13-14) a)Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)](#13-14-aland--und-forstwirtschaft--2-absatz-1-satz-1-nummer-1)
-        - [§ 13 Einkünfte aus Land- und Forstwirtschaft](#-13-einkünfte-aus-land--und-forstwirtschaft)
-        - [§ 13a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen](#-13a-ermittlung-des-gewinns-aus-land--und-forstwirtschaft-nach-durchschnittssätzen)
-        - [§ 14 Veräußerung des Betriebs](#-14-veräußerung-des-betriebs)
-        - [§ 14a Vergünstigungen bei der Veräußerung bestimmter land- und forstwirtschaftlicher Betriebe](#-14a-vergünstigungen-bei-der-veräußerung-bestimmter-land--und-forstwirtschaftlicher-betriebe)
-  - [(15-17) b)Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2)](#15-17-bgewerbebetrieb--2-absatz-1-satz-1-nummer-2)
-        - [§ 15 Einkünfte aus Gewerbebetrieb](#-15-einkünfte-aus-gewerbebetrieb)
-        - [§ 15a Verluste bei beschränkter Haftung](#-15a-verluste-bei-beschränkter-haftung)
-        - [§ 15b Verluste im Zusammenhang mit Steuerstundungsmodellen](#-15b-verluste-im-zusammenhang-mit-steuerstundungsmodellen)
-        - [§ 16 Veräußerung des Betriebs](#-16-veräußerung-des-betriebs)
-        - [§ 17 Veräußerung von Anteilen an Kapitalgesellschaften](#-17-veräußerung-von-anteilen-an-kapitalgesellschaften)
-  - [(18) c)Selbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3)](#18-cselbständige-arbeit--2-absatz-1-satz-1-nummer-3)
-        - [§ 18](#-18)
-  - [(19) d)Nichtselbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4)](#19-dnichtselbständige-arbeit--2-absatz-1-satz-1-nummer-4)
-        - [§ 19](#-19)
-        - [§ 19a Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen](#-19a-sondervorschrift-für-einkünfte-aus-nichtselbständiger-arbeit-bei-vermögensbeteiligungen)
-  - [(20) e)Kapitalvermögen (§ 2 Absatz 1 Satz 1 Nummer 5)](#20-ekapitalvermögen--2-absatz-1-satz-1-nummer-5)
-        - [§ 20](#-20)
-  - [(21) f)Vermietung und Verpachtung (§ 2 Absatz 1 Satz 1 Nummer 6)](#21-fvermietung-und-verpachtung--2-absatz-1-satz-1-nummer-6)
-        - [§ 21](#-21)
-  - [(22-23) g)Sonstige Einkünfte (§ 2 Absatz 1 Satz 1 Nummer 7)](#22-23-gsonstige-einkünfte--2-absatz-1-satz-1-nummer-7)
-        - [§ 22 Arten der sonstigen Einkünfte](#-22-arten-der-sonstigen-einkünfte)
-        - [§ 22a Rentenbezugsmitteilungen an die zentrale Stelle](#-22a-rentenbezugsmitteilungen-an-die-zentrale-stelle)
-        - [§ 23 Private Veräußerungsgeschäfte](#-23-private-veräußerungsgeschäfte)
-  - [(24) h)Gemeinsame Vorschriften](#24-hgemeinsame-vorschriften)
-        - [§ 24](#-24)
-        - [§ 24a Altersentlastungsbetrag](#-24a-altersentlastungsbetrag)
-        - [§ 24b Entlastungsbetrag für Alleinerziehende](#-24b-entlastungsbetrag-für-alleinerziehende)
-
 
 > a) Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)
 >
