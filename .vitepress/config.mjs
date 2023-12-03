@@ -8,6 +8,7 @@ export default defineConfig({
   description: "deguoo",
   themeConfig: {
     plugins: ['vitepress-theme-demoblock'],
+    collapsible: true,//添加
     search: {
       provider: 'local',
       highlight: true,
@@ -92,11 +93,21 @@ export default defineConfig({
           { text: 'Web_Navi_de', link: '/page/WebNavi_de.md' },
         ]
       },
+      // EChart
       {
         text: 'EChart',
         collapsed: true,
         items: [
           { text: 'EChart', link: '/page/Echart/EchartPage.md' }
+        ]
+      },
+      // Gesetze
+      {
+        text: 'Gesetze',
+        collapsed: true,
+        
+        items: [
+          { text: 'EStG', link: '/Gesetze/EStG.md' }
         ]
       }
     ]
